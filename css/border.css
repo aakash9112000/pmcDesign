@@ -98,7 +98,11 @@ position: relative;
     margin-right: 1.5em
    
 }
-
+.logo1{
+ 
+   margin-right: 1.5em
+  
+}
 }
 .box-shadow {
     float: left;
@@ -255,13 +259,16 @@ position: relative;
 
 
 .container8 {
-  column-width: 300px;
-  orphans: 3;
+  /* column-width: 300px; */
+  /* orphans: 3; */
 }
 .margin9{
   margin-left: 130px;
-  margin-right: 20px;
+  margin-right: 1px;
 
+}
+.para{
+  margin-right: 360px!important;
 }
 .btn-common {
 
@@ -273,7 +280,8 @@ position: relative;
   text-align: center;
   flex: 50%;
   padding: 10px;
-  height: 60px;
+  height: 40px;
+  color: #FFFFFFwra;
 
 
 }
@@ -354,7 +362,8 @@ body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px;
   text-align: center;
 }
 .row {
-  /* display: flex; */
+  
+  
 }
 
 
@@ -495,12 +504,18 @@ cursor: pointer;
   -o-transition: all .4s ease-in-out !important;
 }
 
-.search {
+/* .search {
   margin-left: 150px;
   margin-right: 1px;
-}
+} */
 
 .sections{
-  margin-left: 130px;
+  margin-left: 30px;
   margin-right: 120px;
+  
+}
+.section_end{
+  
+  margin-right: 20px;
+  
 }
